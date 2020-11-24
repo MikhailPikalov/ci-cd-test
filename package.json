@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "6.9.x",
+    "npm": "2.15.x"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MikhailPikalov/ci-cd-test.git"
